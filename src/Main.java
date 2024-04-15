@@ -4,6 +4,7 @@ import java.util.Scanner;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
         //final double PI= 3.1456;
 
