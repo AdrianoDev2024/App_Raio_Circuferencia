@@ -10,7 +10,9 @@ public class Main {
         System.out.println("Informe o valor do raio");
         double raio = input.nextDouble();
         double area = raio * raio * Math.PI;
+        double circunferencia = 2 * Math.PI * raio;
 
         System.out.println("O valor da Area " + area);
+        System.out.println("O valor da Circunferencia " + circunferencia);
     }
 }
